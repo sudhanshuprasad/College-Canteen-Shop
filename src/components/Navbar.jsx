@@ -21,7 +21,6 @@ export default function Navbar() {
     else{
         document.body.classList.remove('background-dark');
     }
-    console.log(theme)
 
     // // const [login, SetLogin] = useState([Boolean(localStorage.getItem('authToken'))]);
     // // let navigate=useNavigate();
